@@ -58,6 +58,61 @@ body {background-color: rgb(0, 0, 0);}
 
 @media only screen and (max-width: 500px) {
     body {
-      background-color: lightblue;
+      background-color: white;
     }
+    .p4 {background-color: rgb(255, 252, 176);
+        color: rgb(255, 238, 0); 
+        font-size: 200%; 
+        text-align: center; 
+    
+        border-color: rgb(255, 255, 255); 
+        border-width: 5px; 
+        border-style: solid;
+    
+        margin-left: 50%;
+        margin-right: 10%;
+        margin-top: 5%;
+    }
+    .p3 {background-color: rgb(255, 175, 175);
+        color: rgb(255, 0, 0); 
+        font-size: 200%; 
+        text-align: center; 
+    
+        border-color: rgb(255, 255, 255); 
+        border-width: 5px; 
+        border-style: solid;
+    
+        margin-left: 10%;
+        margin-right: 50%;
+        margin-top: 5%;
+    }
+    .p2 {background-color: rgb(205, 255, 205);
+        color: lime; 
+        font-size: 200%; 
+        text-align: center; 
+    
+        border-color: rgb(255, 255, 255); 
+        border-width: 5px; 
+        border-style: solid;
+    
+        margin-left: 50%;
+        margin-right: 10%;
+        margin-top: 5%;
+    }
+    .p1 {
+        background-color: rgb(207, 255, 255);
+        color: aqua; 
+        font-size: 200%; 
+        text-align: center; 
+    
+        border-color: rgb(255, 255, 255); 
+        border-width: 5px; 
+        border-style: solid;
+    
+        margin-left: 10%;
+        margin-right: 50%;
+        margin-top: 5%;
 }
+
+}
+
